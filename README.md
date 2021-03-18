@@ -1,8 +1,8 @@
 # DIU21
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
-Grupo: DIU1_01AABB.  Curso: 2020/21 
-Updated: 8/2/2021
+Grupo: DIU1_01AABB.Salsoteca  Curso: 2020/21 
+Updated: 3/18/2021
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -22,8 +22,6 @@ Miembros
 
 
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
@@ -33,25 +31,32 @@ Miembros
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>>Nosotros hemos elegido Lambus frente a las demás aplicaciones ya que tiene ventajas que la mayoría de las otras aplicaciones no tienen. En primer lugar, podemos observar que hay aplicaciones que ni siquiera tienen una página web como es el caso de TripIt. También cabe destacar su servicio en Android, ya que Lambus no tiene pagos adicionales en este Sistema Operativo pero hay otras aplicaciones que si que tienen pagos, como es el caso de TripIt, Roadtrippers. Tenemos que añadir que cuando nos hemos puesto a realizar las comparativas entre los diferentes servicios, hemos visto otra aplicación que ofrece servicios similares pero tiene ventajas respecto a los pagos adicionales tanto en Android como en iOs. Por eso precisamente hemos elegido Lambus, porque es una buena aplicación que ofrece ventajas con respecto a casi todos los demás servicios pero se queda corto respecto a Wonderlog, así será un análisis más realistas sin enfocarnos directamente en el servicio que a priori parece más completo. Hemos añadido un servicio que también ofrece algo similar a los anteriores, pero en este caso no dispone de aplicación en el móvil, por tanto no es equiparable al servicio que puede ofrecer Lambus, o directamente las demás aplicaciones. Como conclusión, hemos observado que Lambus es una de las aplicaciones líderes pero se queda corta con respecto a Wonderlog. 
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> El objetivo ha sido intentar buscar individuos con objetivos de viajes diferentes, así como biografías diferentes. De esta forma intentamos recoger distintos puntos de vista para ampliar nuestra visibilidad. También tienen metas diferentes, de forma que pueden aportar otros puntos de vista. También, otro objetivo ha sido que las dos personas tengan distintas personalidades, porque cada personalidad aporta algo distinto.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Para realizar ambos Journey Map hemos tenido que ponernos en la piel de cada uno de nuestros personajes ficticios, y especular qué es lo que ellos pensarían a la hora de administrar un viaje mediante la empatía. Creemos que ha resultado interesante que pongamos una frase sobre qué piensan en cada una de las etapas, ya que representa muy bien lo que significa. También hemos intentado cambiar el punto de contacto poniéndonos en la piel del usuario, preguntándonos que resultaría más práctico para ellos.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
+>>> - Valoración final (numérica): 76
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> A grandes rasgos, inicialmente podemos decir que la propia plataforma Lambus se preocupa por la usabilidad del mismo. Sin embargo, analizando su competencia, podría potenciar algunos puntos fuertes para poder diferenciarse, aunque existen algunos competidores fuertes en el mercado como son Wonderlog. Aparte, la plataforma ofrece una cierta calidad en materia de navegabilidad, solución de errores y feedback, contenido, ayuda… Su test de usabilidad tiene una puntuación razonablemente buena (76/100), de forma que se puede decir que ofrece un servicio de calidad.
+También, a la hora de crear personajes ficticios, hemos tenido que actuar como ellos, y hemos podido ver de primera mano como es de usable la plataforma.
+
 
 
 ## Paso 2. UX Design  
