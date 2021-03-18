@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Santiago Carbó García     :octocat:     
+ * :bust_in_silhouette:  Ignacio Joaquín García Moreno     :octocat:
 
 ----- 
 
@@ -37,7 +37,13 @@ Miembros
 
 
 ![Método UX](img/Persona.png) 1.b Persona
------
+
+
+
+-----![MathewPetersonPersona](https://user-images.githubusercontent.com/75760642/111619018-58158d00-87e5-11eb-8f71-bbae15ccfc0f.png)
+
+-----![DianeDouglasPersona](https://user-images.githubusercontent.com/75760642/111619061-65327c00-87e5-11eb-8941-7917ccb4b08f.png)
+
 
 >>> El objetivo ha sido intentar buscar individuos con objetivos de viajes diferentes, así como biografías diferentes. De esta forma intentamos recoger distintos puntos de vista para ampliar nuestra visibilidad. También tienen metas diferentes, de forma que pueden aportar otros puntos de vista. También, otro objetivo ha sido que las dos personas tengan distintas personalidades, porque cada personalidad aporta algo distinto.
 
