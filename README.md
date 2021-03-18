@@ -41,14 +41,18 @@ Miembros
 
 
 ![MathewPetersonPersona](https://user-images.githubusercontent.com/75760642/111619018-58158d00-87e5-11eb-8f71-bbae15ccfc0f.png)
-
 ![DianeDouglasPersona](https://user-images.githubusercontent.com/75760642/111619061-65327c00-87e5-11eb-8941-7917ccb4b08f.png)
 
 
 >>> El objetivo ha sido intentar buscar individuos con objetivos de viajes diferentes, así como biografías diferentes. De esta forma intentamos recoger distintos puntos de vista para ampliar nuestra visibilidad. También tienen metas diferentes, de forma que pueden aportar otros puntos de vista. También, otro objetivo ha sido que las dos personas tengan distintas personalidades, porque cada personalidad aporta algo distinto.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
-----
+
+
+
+![JourneyMapMathewPeterson](https://user-images.githubusercontent.com/75760642/111619276-a591fa00-87e5-11eb-87ce-09ce564eab23.png)
+![JourneyMapDianeDouglas](https://user-images.githubusercontent.com/75760642/111619305-af1b6200-87e5-11eb-81bb-1b9655b8d79d.png)
+
 
 
 >>> Para realizar ambos Journey Map hemos tenido que ponernos en la piel de cada uno de nuestros personajes ficticios, y especular qué es lo que ellos pensarían a la hora de administrar un viaje mediante la empatía. Creemos que ha resultado interesante que pongamos una frase sobre qué piensan en cada una de las etapas, ya que representa muy bien lo que significa. También hemos intentado cambiar el punto de contacto poniéndonos en la piel del usuario, preguntándonos que resultaría más práctico para ellos.
