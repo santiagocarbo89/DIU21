@@ -28,6 +28,8 @@ Miembros
 ## Paso 1. UX Desk Research & Analisis 
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
+
+
 -----![Multiple Competitor Feature Comparison](https://user-images.githubusercontent.com/75760642/111618823-1dabf000-87e5-11eb-81e6-80aaac9d9d39.jpg)
 
 
