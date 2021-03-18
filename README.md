@@ -1,5 +1,5 @@
 # DIU21
-Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
+Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Planificación y Organización de Viajes) 
 
 Grupo: DIU1_01AABB.Salsoteca  Curso: 2020/21 
 Updated: 3/18/2021
