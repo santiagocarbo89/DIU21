@@ -28,7 +28,8 @@ Miembros
 ## Paso 1. UX Desk Research & Analisis 
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
------
+-----![Multiple Competitor Feature Comparison](https://user-images.githubusercontent.com/75760642/111618823-1dabf000-87e5-11eb-81e6-80aaac9d9d39.jpg)
+
 
 >>> Nosotros hemos elegido Lambus frente a las demás aplicaciones ya que tiene ventajas que la mayoría de las otras aplicaciones no tienen. En primer lugar, podemos observar que hay aplicaciones que ni siquiera tienen una página web como es el caso de TripIt. También cabe destacar su servicio en Android, ya que Lambus no tiene pagos adicionales en este Sistema Operativo pero hay otras aplicaciones que si que tienen pagos, como es el caso de TripIt, Roadtrippers. Tenemos que añadir que cuando nos hemos puesto a realizar las comparativas entre los diferentes servicios, hemos visto otra aplicación que ofrece servicios similares pero tiene ventajas respecto a los pagos adicionales tanto en Android como en iOs. Por eso precisamente hemos elegido Lambus, porque es una buena aplicación que ofrece ventajas con respecto a casi todos los demás servicios pero se queda corto respecto a Wonderlog, así será un análisis más realistas sin enfocarnos directamente en el servicio que a priori parece más completo. Hemos añadido un servicio que también ofrece algo similar a los anteriores, pero en este caso no dispone de aplicación en el móvil, por tanto no es equiparable al servicio que puede ofrecer Lambus, o directamente las demás aplicaciones. Como conclusión, hemos observado que Lambus es una de las aplicaciones líderes pero se queda corta con respecto a Wonderlog. 
 
