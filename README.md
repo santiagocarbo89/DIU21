@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Santiago Carbó García     :octocat:     
- * :bust_in_silhouette:  Ignacio Joaquín García Moreno     :octocat:
+ * :bust_in_silhouette:  [Santiago Carbó García](https://github.com/santiagocarbo89/)     :octocat:     
+ * :bust_in_silhouette:  [Ignacio Joaquín García Moreno](https://github.com/ignaciogmoreno/)     :octocat:
 
 ----- 
 
