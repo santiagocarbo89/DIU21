@@ -21,7 +21,7 @@
 User Journey Map
 
 
-
+## User Journey Map
 ![JourneyMapMathewPeterson](https://user-images.githubusercontent.com/75760642/111619276-a591fa00-87e5-11eb-87ce-09ce564eab23.png)
 ![JourneyMapDianeDouglas](https://user-images.githubusercontent.com/75760642/111619305-af1b6200-87e5-11eb-81bb-1b9655b8d79d.png)
 
