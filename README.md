@@ -31,7 +31,7 @@ Miembros
 
 
 >>> De entre diversas aplicaciones como TripIt, Roadtrippers o Wonderlog, nos hemos quedado con Lambus ya que es una aplicación muy completa pero pensabamos que escoger la mejor, en este caso wonderlog, no habría mucho con lo que comparar.
->>> [Información completa](https://github.com/santiagocarbo89/)
+>>>> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P1/README.md#competitive-analysis)
 
 
 ![Método UX](img/Persona.png) 1.b Persona
