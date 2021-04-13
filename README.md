@@ -52,7 +52,7 @@ Miembros
 
 
 
->>> Para realizar ambos Journey Map hemos tenido que ponernos en la piel de cada uno de nuestros personajes ficticios, y especular qué es lo que ellos pensarían a la hora de administrar un viaje mediante la empatía. Creemos que ha resultado interesante que pongamos una frase sobre qué piensan en cada una de las etapas, ya que representa muy bien lo que significa. También hemos intentado cambiar el punto de contacto poniéndonos en la piel del usuario, preguntándonos que resultaría más práctico para ellos.
+>>> En estos journey map, hemos puesto casos reales que les podrían pasar a los usuarios
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
