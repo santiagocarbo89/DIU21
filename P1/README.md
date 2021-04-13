@@ -22,25 +22,6 @@ User Journey Map
 
 
 ## User Journey Map
-/*******************************************/
-/*             JOURNEY.JS                  */
-/*     Datos para USER JOURNEY MAP         */   
-/*          [DIU] UX Toolkit v1.0 2019     */                        
-/*          ver 1.1 26/Feb/2020            */
-/*******************************************/
-    
-/****  README:       */
-/****  v.1.1 Incluye nombre de tu grupo de prácticas (Grupo.ID), curso académico y enlace a github ***/
-/****  Modifica los datos para los Journey Map (uno para cada Persona)  */
-/****  Usa los 6 pasos y sigue las instrucciones */   
-/****  Las imagenes para  'Photo', 'feelX', 'imaX' están en carpeta ./photos **/
-/****  Si se usan nuevas imágenes se deben añadir a esa carpeta **/
-/****  Los valores de rating están entre 1..5 **/
-/****  recursos de imágenes:  https://www.vectorstock.com/royalty-free-vectors/vectors-by_zdeneksasek ***/
-
-
-
-
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
 		$scope.Grupo_ID ="DIU1.ABCDEF";
