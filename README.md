@@ -42,7 +42,8 @@ Miembros
 ![DianeDouglasPersona](https://user-images.githubusercontent.com/75760642/111619061-65327c00-87e5-11eb-8941-7917ccb4b08f.png)
 
 
->>> El objetivo ha sido intentar buscar individuos con objetivos de viajes diferentes, así como biografías diferentes. De esta forma intentamos recoger distintos puntos de vista para ampliar nuestra visibilidad. También tienen metas diferentes, de forma que pueden aportar otros puntos de vista. También, otro objetivo ha sido que las dos personas tengan distintas personalidades, porque cada personalidad aporta algo distinto.
+>>> Hemos seleccionado estas dos personas con unos buenos intereses en viajar pero con vidas realistas.
+>>>>  [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P1/README.md#persona)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 
