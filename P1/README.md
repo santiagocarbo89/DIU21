@@ -27,9 +27,6 @@ User Journey Map
 ![Mathew Petterson](https://user-images.githubusercontent.com/62752334/114553939-78aaf880-9c66-11eb-8bf2-43830797aad5.png)
 ![Diane Douglas](https://user-images.githubusercontent.com/62752334/114603361-eb809780-9c97-11eb-9524-dff00e1e074c.png)
 
-![JourneyMapMathewPeterson](https://user-images.githubusercontent.com/75760642/111619276-a591fa00-87e5-11eb-87ce-09ce564eab23.png)
-![JourneyMapDianeDouglas](https://user-images.githubusercontent.com/75760642/111619305-af1b6200-87e5-11eb-81bb-1b9655b8d79d.png)
-
 
 
 >>> Para realizar ambos Journey Map hemos tenido que ponernos en la piel de cada uno de nuestros personajes ficticios, y especular qué es lo que ellos pensarían a la hora de administrar un viaje mediante la empatía. Creemos que ha resultado interesante que pongamos una frase sobre qué piensan en cada una de las etapas, ya que representa muy bien lo que significa. También hemos intentado cambiar el punto de contacto poniéndonos en la piel del usuario, preguntándonos que resultaría más práctico para ellos.
