@@ -30,7 +30,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 
 
->>> De entre diversas aplicaciones como TripIt, Roadtrippers o Wonderlog, nos hemos quedado con Lambus ya que es una aplicación muy completa pero pensabamos que escoger la mejor, en este caso wonderlog, no habría mucho con lo que comparar.
+>>> De entre diversas aplicaciones como [TripIt](https://www.tripit.com/web), [RoadTrippers](https://roadtrippers.com/) o [WonderLog](https://wanderlog.com/), nos hemos quedado con [Lambus](https://www.lambus.com/) ya que es una aplicación muy completa pero pensabamos que escoger la mejor, en este caso wonderlog, no habría mucho con lo que comparar.
 >>>> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P1/README.md#competitive-analysis)
 
 
