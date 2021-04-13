@@ -59,12 +59,11 @@ Miembros
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad)
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  https://github.com/santiagocarbo89/DIU21/blob/master/P1/UsabilityLambus.xls 
->>> - Valoración final (numérica): 76
->>> - Comentario sobre la valoración:
->>> A grandes rasgos, inicialmente podemos decir que la propia plataforma Lambus se preocupa por la usabilidad del mismo. Sin embargo, analizando su competencia, podría potenciar algunos puntos fuertes para poder diferenciarse, aunque existen algunos competidores fuertes en el mercado como son Wonderlog. Aparte, la plataforma ofrece una cierta calidad en materia de navegabilidad, solución de errores y feedback, contenido, ayuda… Su test de usabilidad tiene una puntuación razonablemente buena (76/100), de forma que se puede decir que ofrece un servicio de calidad.
-También, a la hora de crear personajes ficticios, hemos tenido que actuar como ellos, y hemos podido ver de primera mano como es de usable la plataforma.
+>>>> - Enlace al [documento](https://github.com/santiagocarbo89/DIU21/blob/master/P1/UsabilityLambus.xls):   
+>>>> - Valoración final (numérica): 76
+>>>> - Comentario sobre la valoración:
+>>>> La aplicación es de las mejores que se oferta en el mercado, pero a veces puede fallar en algunos aspectos respecto a otras aplicaciones. Es una de las aplicaciones líderes aunque tenga defectos como pagos en algunos sistemas o modos de uso complicados. 
+>>>> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P1/README.md#usability-review):
 
 
 
