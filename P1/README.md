@@ -22,6 +22,7 @@ User Journey Map
 
 
 ## User Journey Map
+
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
 		$scope.Grupo_ID ="DIU1.ABCDEF";
