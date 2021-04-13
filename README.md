@@ -63,7 +63,7 @@ Miembros
 >>>> - Valoración final (numérica): 76
 >>>> - Comentario sobre la valoración:
 >>>> La aplicación es de las mejores que se oferta en el mercado, pero a veces puede fallar en algunos aspectos respecto a otras aplicaciones. Es una de las aplicaciones líderes aunque tenga defectos como pagos en algunos sistemas o modos de uso complicados. 
->>>> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P1/README.md#usability-review)
+>>>>> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P1/README.md#usability-review)
 
 
 
