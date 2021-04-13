@@ -35,7 +35,7 @@ User Journey Map
 
 
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad)
+>>>  Revisión de usabilidad: 
 >>> - Enlace al [documento](https://github.com/santiagocarbo89/DIU21/blob/master/P1/UsabilityLambus.xls)
 >>> - Valoración final (numérica): 76
 >>> - Comentario sobre la valoración:
