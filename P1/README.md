@@ -1,5 +1,6 @@
 
 
+
 ## Competitive Analysis
 
 
@@ -23,7 +24,7 @@ User Journey Map
 
 ## User Journey Map
 
-
+![Mathew Petterson](https://user-images.githubusercontent.com/62752334/114553939-78aaf880-9c66-11eb-8bf2-43830797aad5.png)
 ![JourneyMapMathewPeterson](https://user-images.githubusercontent.com/75760642/111619276-a591fa00-87e5-11eb-87ce-09ce564eab23.png)
 ![JourneyMapDianeDouglas](https://user-images.githubusercontent.com/75760642/111619305-af1b6200-87e5-11eb-81bb-1b9655b8d79d.png)
 
