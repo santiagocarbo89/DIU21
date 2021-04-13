@@ -1,22 +1,8 @@
-## DIU - Practica1, entregables
-
-
-
-
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
-
-
-(valoración y conclusiones de esta etapa)
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+Competitive Analysis
 
 
 ![Multiple Competitor Feature Comparison](https://user-images.githubusercontent.com/75760642/111618823-1dabf000-87e5-11eb-81e6-80aaac9d9d39.jpg)
@@ -25,7 +11,7 @@
 >>> Nosotros hemos elegido Lambus frente a las demás aplicaciones ya que tiene ventajas que la mayoría de las otras aplicaciones no tienen. En primer lugar, podemos observar que hay aplicaciones que ni siquiera tienen una página web como es el caso de TripIt. También cabe destacar su servicio en Android, ya que Lambus no tiene pagos adicionales en este Sistema Operativo pero hay otras aplicaciones que si que tienen pagos, como es el caso de TripIt, Roadtrippers. Tenemos que añadir que cuando nos hemos puesto a realizar las comparativas entre los diferentes servicios, hemos visto otra aplicación que ofrece servicios similares pero tiene ventajas respecto a los pagos adicionales tanto en Android como en iOs. Por eso precisamente hemos elegido Lambus, porque es una buena aplicación que ofrece ventajas con respecto a casi todos los demás servicios pero se queda corto respecto a Wonderlog, así será un análisis más realistas sin enfocarnos directamente en el servicio que a priori parece más completo. Hemos añadido un servicio que también ofrece algo similar a los anteriores, pero en este caso no dispone de aplicación en el móvil, por tanto no es equiparable al servicio que puede ofrecer Lambus, o directamente las demás aplicaciones. Como conclusión, hemos observado que Lambus es una de las aplicaciones líderes pero se queda corta con respecto a Wonderlog. 
 
 
-![Método UX](img/Persona.png) 1.b Persona
+Persona
 
 
 
@@ -34,8 +20,7 @@
 
 
 >>> El objetivo ha sido intentar buscar individuos con objetivos de viajes diferentes, así como biografías diferentes. De esta forma intentamos recoger distintos puntos de vista para ampliar nuestra visibilidad. También tienen metas diferentes, de forma que pueden aportar otros puntos de vista. También, otro objetivo ha sido que las dos personas tengan distintas personalidades, porque cada personalidad aporta algo distinto.
-
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+User Journey Map
 
 
 
@@ -46,7 +31,7 @@
 
 >>> Para realizar ambos Journey Map hemos tenido que ponernos en la piel de cada uno de nuestros personajes ficticios, y especular qué es lo que ellos pensarían a la hora de administrar un viaje mediante la empatía. Creemos que ha resultado interesante que pongamos una frase sobre qué piensan en cada una de las etapas, ya que representa muy bien lo que significa. También hemos intentado cambiar el punto de contacto poniéndonos en la piel del usuario, preguntándonos que resultaría más práctico para ellos.
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad)
 >>>> SE deben incluir claramente los siguientes elementos
