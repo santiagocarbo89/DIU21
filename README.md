@@ -75,9 +75,7 @@ Miembros
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+![feedback](https://user-images.githubusercontent.com/75760642/115119165-4a4f5500-9fa7-11eb-8e1e-b3101297dd67.PNG)
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
