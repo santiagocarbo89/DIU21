@@ -72,7 +72,7 @@ Miembros
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+
 
 **Malla receptora de información** (*Feedback Capture Grid*):
 
