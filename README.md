@@ -88,9 +88,9 @@ Miembros
 
 
 
->>> Una visión interesante de nuestra aplicación sería a través del filtro de la **economía colaborativa**. ¿Cómo sería? 
+Una visión interesante de nuestra aplicación sería a través del filtro de la **economía colaborativa**. ¿Cómo sería? 
 >>> Muchos usuarios no tendrán un presupuesto que alcance todas sus expectativas durante el viaje. El transporte, el alojamiento e, incluso, el comercio del lugar al que vayan pueden ser más caros de lo que ellos esperan.
->>> (150-200 caracteres) Nuestra propuesta sería transladar esta economía colaborativa a algunos servicios de nuestra aplicación. La idea sería utilizar transporte y alojamiento colaborativo en nuestra aplicación. Podríamos asociarnos con empresas como Airbnb y Uber para desarrollar esta idea, ya que si la implementáramos nosotros podría ser bastante más costoso. También sería interesante fomentar el comercio colaborativo de la zona, con aplicaciones como Ebay.
+>>> Nuestra propuesta sería transladar esta economía colaborativa a algunos servicios de nuestra aplicación. La idea sería utilizar transporte y alojamiento colaborativo en nuestra aplicación. Podríamos asociarnos con empresas como Airbnb y Uber para desarrollar esta idea, ya que si la implementáramos nosotros podría ser bastante más costoso. También sería interesante fomentar el comercio colaborativo de la zona, con aplicaciones como Ebay.
 
 
 
