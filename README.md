@@ -5,7 +5,7 @@ Grupo: DIU1_Salsoteca  Curso: 2020/21
 Updated: 4/11/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Vertol
 
 Descripción: 
 
