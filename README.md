@@ -8,8 +8,7 @@ Proyecto:
 >>> Vertol
 
 Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+>>> Nuestra idea es realizar una aplicación que permitar realizar itinerarios de viajes personalizados, permitiendo a los usuarios guardar documentos, imágenes y videos relacionadas con el mismo, así como estimar un saldo común para su viaje. Para nuestro proyecto sería también interesante asociarse con servicios tales como Airbnb o Uber para facilitar el alojamiento y el transporte durante el viaje.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
