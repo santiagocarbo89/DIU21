@@ -42,4 +42,5 @@
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+
+Durante esta parte del proyecto hemos aprendido muchas herramientas para sintetizar información acerca de nuestro proyecto. Partocularmente, el prototipo Lo-Fi ha servido para que le "pongamos cara" a la aplicación que queremos desarrollar y hacer una primera aproximación de nuestra interfaz. También nos ha llamado particularmente la atención el "*Empathy Map*", puediendo, valga la redundancia, empatizar con los usuarios que van a utilizar la app. En definitiva, ha servido para sintetizar mucha información necesaria para el proyecto.
