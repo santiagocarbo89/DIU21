@@ -5,7 +5,7 @@ Grupo: DIU1_Salsoteca  Curso: 2020/21
 Updated: 4/11/2021
 
 Proyecto: 
->>> Vertol
+>>> Navis, aplicación para realizar itinerarios y planificar viajes
 
 Descripción: 
 >>> Nuestra idea es realizar una aplicación que permitar realizar itinerarios de viajes personalizados, permitiendo a los usuarios guardar documentos, imágenes y videos relacionadas con el mismo, así como estimar un saldo común para su viaje. Para nuestro proyecto sería también interesante asociarse con servicios tales como Airbnb o Uber para facilitar el alojamiento y el transporte durante el viaje.
