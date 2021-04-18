@@ -20,7 +20,8 @@
 
 * User Task Matrix 
 
-![user_task](https://user-images.githubusercontent.com/62752334/115142753-bc757780-a043-11eb-9de5-3c6aefc89ac8.png)
+![User/Task Matrix](https://user-images.githubusercontent.com/62752334/115143172-02cbd600-a046-11eb-8ca3-7f855399cdf7.png)
+
 
 
 
