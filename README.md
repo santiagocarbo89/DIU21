@@ -100,13 +100,16 @@ Una visión interesante de nuestra aplicación sería a través del filtro de la
 ![ScopeCanvas](https://user-images.githubusercontent.com/75760642/115144027-b3d46f80-a04a-11eb-9c5a-90adf7a4a561.PNG)
 
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
------
+![Método UX](img/Sitemap.png) 2.c Tasks analysis 
+
+* Matriz de Tareas/Usuarios (User Task Matrix) 
+
+![User/Task Matrix](https://user-images.githubusercontent.com/62752334/115143314-d19fd580-a046-11eb-905a-1887afb19bc7.png)
 
 >>> Hemos esocigo utilizar la Matriz de usuarios/tareas porque se representa mucho mejor las tareas en referencia al interés o el uso que los usuarios pueden hacer de esa tarea ya que es donde se enumeran una lista de tareas en filas y los perfiles de usuario como columnas y se indica la frecuencia de uso además de resaltar con un color especial las tareas y perfiles más críticos e importantes.
 >>>> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P2/README.md#)
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+![Método UX](img/labelling.png) 2.d IA: Sitemap + Labelling 
 ----
 
 
