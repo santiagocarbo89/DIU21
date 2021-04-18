@@ -15,6 +15,8 @@
 ### PROPUESTA DE VALOR
 * ScopeCanvas
 
+![ScopeCanvas](https://user-images.githubusercontent.com/75760642/115152910-851ebf00-a073-11eb-80a6-32b22511ba6c.PNG)
+
 
 ### TASK ANALYSIS
 
@@ -35,6 +37,8 @@
 
 
 ### Prototipo Lo-FI Wireframe 
+
+![bocetos_lofi](https://user-images.githubusercontent.com/75760642/115152915-8ea82700-a073-11eb-92ea-16f400878fab.png)
 
 
 ### Conclusiones  
