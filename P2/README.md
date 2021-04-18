@@ -28,6 +28,9 @@
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
+
+![sitemap](https://user-images.githubusercontent.com/62752334/115152877-57d21100-a073-11eb-9a23-21b8c163837c.png)
+
 * Labelling 
 
 
