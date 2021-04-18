@@ -125,6 +125,9 @@ Término | Significado
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
+![bocetos_lofi](https://user-images.githubusercontent.com/75760642/115152222-88647b80-a070-11eb-95e7-2767d4b79549.png)
+
+
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
