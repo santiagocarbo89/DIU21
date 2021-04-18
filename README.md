@@ -103,7 +103,7 @@ Una visión interesante de nuestra aplicación sería a través del filtro de la
 **Matriz de tareas/usuarios** (*User/task matrix*):
 
 >>> Hemos escogido la matriz de tareas/usuarios, porque creemos que es más visual ver las tareas que se deben implementar y los perfiles críticos más importante, ya que aquí se enumeran la lista de tareas en filas y los perfiles de usuario como columna y se resalta con un color especial las tareas y perfiles más críticos e importantes.
->>>> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P2/README.md#)
+>>>> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P2/README.md#User Task Matrix )
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
