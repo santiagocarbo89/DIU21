@@ -71,31 +71,16 @@ Miembros
 ----
 
 
-
-
-**Malla receptora de información** (*Feedback Capture Grid*):
-
-![feedback](https://user-images.githubusercontent.com/75760642/115119165-4a4f5500-9fa7-11eb-8e1e-b3101297dd67.PNG)
-  
-**Mapa de empatía** (*Empathy Map*):
-
-![empathy_map](https://user-images.githubusercontent.com/75760642/115119291-eaa57980-9fa7-11eb-8ddf-97859b26d308.PNG)
-
-**POV** (*Point of View*):
-
-![pov1](https://user-images.githubusercontent.com/75760642/115119303-f729d200-9fa7-11eb-9eb7-647225149615.jpg)
-
-
-
 Una visión interesante de nuestra aplicación sería a través del filtro de la **economía colaborativa**. ¿Cómo sería? 
 >>> Muchos usuarios no tendrán un presupuesto que alcance todas sus expectativas durante el viaje. El transporte, el alojamiento e, incluso, el comercio del lugar al que vayan pueden ser más caros de lo que ellos esperan.
 >>> Nuestra propuesta sería transladar esta economía colaborativa a algunos servicios de nuestra aplicación. La idea sería utilizar transporte y alojamiento colaborativo en nuestra aplicación. Podríamos asociarnos con empresas como Airbnb y Uber para desarrollar esta idea, ya que si la implementáramos nosotros podría ser bastante más costoso. También sería interesante fomentar el comercio colaborativo de la zona, con aplicaciones como Ebay.
-
+>>>> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P2/README.md#)
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor 
+>>>> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P2/README.md#)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
@@ -103,7 +88,7 @@ Una visión interesante de nuestra aplicación sería a través del filtro de la
 **Matriz de tareas/usuarios** (*User/task matrix*):
 
 >>> Hemos escogido la matriz de tareas/usuarios, porque creemos que es más visual ver las tareas que se deben implementar y los perfiles críticos más importante, ya que aquí se enumeran la lista de tareas en filas y los perfiles de usuario como columna y se resalta con un color especial las tareas y perfiles más críticos e importantes.
->>>> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P2/README.md#User Task Matrix )
+>>>> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P2/README.md#)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
