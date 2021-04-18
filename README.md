@@ -100,7 +100,10 @@ Una visión interesante de nuestra aplicación sería a través del filtro de la
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+**Matriz de tareas/usuarios** (*User/task matrix*):
+![user_task](https://user-images.githubusercontent.com/62752334/115142753-bc757780-a043-11eb-9de5-3c6aefc89ac8.png)
+
+**Flujo de tareas/usuarios** (*User/task flow*):
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
