@@ -103,9 +103,9 @@ Una visión interesante de nuestra aplicación sería a través del filtro de la
 **Matriz de tareas/usuarios** (*User/task matrix*):
 
 
-![user_task](https://user-images.githubusercontent.com/62752334/115142753-bc757780-a043-11eb-9de5-3c6aefc89ac8.png)
+![user_task (1)](https://user-images.githubusercontent.com/62752334/115143156-edef4280-a045-11eb-9369-6c230898ebbc.png)
 
-**Flujo de tareas/usuarios** (*User/task flow*):
+>>> Hemos escogido la matriz de tareas/usuarios, porque 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
