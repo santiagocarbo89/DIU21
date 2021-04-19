@@ -23,7 +23,7 @@
 * User Task Matrix 
 
 >>> En la matriz de usuarios/taresas, podemos distinguir entre 6 conjuntos de perfiles:
->>>> # Jóvenes: Se encuentran las personas más jóvenes, dirigido a personas como estudiantes o personas que no son mayores de edad.
+>>>> #### Jóvenes: Se encuentran las personas más jóvenes, dirigido a personas como estudiantes o personas que no son mayores de edad.
 >>>> # Adultos: Se encuentran personas de mediana edad que viajan solas.
 >>>> Familias: Conjunto de personas de la misma unidad familiar, dirigido a un matrimonio con hijos.
 >>>> Parejas: Dirigido a personas que mantienen una relación sentimental.
