@@ -4,7 +4,9 @@
 ### Ideación 
 * Malla receptora de información 
 
-![feedback](https://user-images.githubusercontent.com/75760642/115119165-4a4f5500-9fa7-11eb-8e1e-b3101297dd67.PNG)
+![feedback2](https://user-images.githubusercontent.com/75760642/115245717-87415600-a125-11eb-9033-eb2332d98eeb.PNG)
+
+
 * Mapa de empatía
 
 ![empathy_map](https://user-images.githubusercontent.com/75760642/115119291-eaa57980-9fa7-11eb-8ddf-97859b26d308.PNG)
