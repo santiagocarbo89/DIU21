@@ -10,7 +10,8 @@
 
 * En este caso, también en la piel de Matthew y Diane, hemos desarrollado el **Mapa de Empatía** (*Empathy Map*). Éste, a su vez, podría decirse que se divide en dos partes: los cuatro cuadrantes principales (*Think and feel*, *Hear*, *Say and do* y *See*) y una segunda parte formada por los pros y contras de la idea.
 
-![empathy_map](https://user-images.githubusercontent.com/75760642/115119291-eaa57980-9fa7-11eb-8ddf-97859b26d308.PNG)
+![empathy_map2](https://user-images.githubusercontent.com/75760642/115261024-929b7e00-a133-11eb-84e2-864e955646f1.PNG)
+
 
 * Para finalizar el apartado de ideación, presentamos un apartado que se denomina **POV** (*Point of View*). Aquí analizamos una situación, en este caso desde la piel de Diane Douglas, e intentamos comprender qué es realmente lo que quiere el usuario.
 
