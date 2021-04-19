@@ -7,15 +7,17 @@
 ![feedback2](https://user-images.githubusercontent.com/75760642/115245717-87415600-a125-11eb-9033-eb2332d98eeb.PNG)
 
 
-* En este caso, también en la piel de Matthew y Diane, hemos desarrollado el **Mapa de Empatía** (*Empathy Map*).
+* En este caso, también en la piel de Matthew y Diane, hemos desarrollado el **Mapa de Empatía** (*Empathy Map*). Éste, a su vez, podría decirse que se divide en dos partes: los cuatro cuadrantes principales (*Think and feel*, *Hear*, *Say and do* y *See*) y una segunda parte formada por los pros y contras de la idea.
 
 ![empathy_map](https://user-images.githubusercontent.com/75760642/115119291-eaa57980-9fa7-11eb-8ddf-97859b26d308.PNG)
-* Point of View 
+
+* Para finalizar el apartado de ideación, presentamos un apartado que se denomina **POV** (*Point of View*). Aquí analizamos una situación 
 
 ![pov1](https://user-images.githubusercontent.com/75760642/115119303-f729d200-9fa7-11eb-9eb7-647225149615.jpg)
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
+* A modo de **propuesta de valor**, definimos nuestro proyecto como una aplicación que ayuda a realizar un itinerario, así como una planificación, de un determinado viaje. Una vez realizado el itinerario y adjuntado todos los documentos e imágenes relacionados con éste, se podrá hacer uso de aplicaciones tales como Airbnb o Uber para que el viaje sea más cómodo.
+* A continuación presentamos el **ScopeCanvas**, donde definimos nuestros propósitos y objetivos a la hora de desarrollar nuestro proyecto. También identificamos las necesidades y acciones de nuestros usuarios, así como las métricas para definir nuestro éxito.
 
 ![ScopeCanvas](https://user-images.githubusercontent.com/75760642/115152910-851ebf00-a073-11eb-80a6-32b22511ba6c.PNG)
 
