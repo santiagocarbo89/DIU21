@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Planificación y Organización de Viajes) 
 
 Grupo: DIU1_Salsoteca  Curso: 2020/21 
-Updated: 4/11/2021
+Updated: 8/11/2021
 
 Proyecto: 
 >>> Navis, aplicación para realizar itinerarios y planificar viajes
