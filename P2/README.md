@@ -1,7 +1,8 @@
 
 ## DIU - Practica2, entregables
 
-### Ideación 
+### IDEACIÓN 
+
 * A continuación, aparece representada la **Malla Receptora de Información** (*Feedback Capture Grid*). Nos hemos puesto en la piel de nuestros dos personajes ficticios (Matthew y Diane) para desarrollarla, después de analizar los pros y contras, así como los preguntas, de la aplicación. También hemos añadido una serie de ideas innovadoras.
 
 ![feedback2](https://user-images.githubusercontent.com/75760642/115245717-87415600-a125-11eb-9033-eb2332d98eeb.PNG)
@@ -11,11 +12,12 @@
 
 ![empathy_map](https://user-images.githubusercontent.com/75760642/115119291-eaa57980-9fa7-11eb-8ddf-97859b26d308.PNG)
 
-* Para finalizar el apartado de ideación, presentamos un apartado que se denomina **POV** (*Point of View*). Aquí analizamos una situación 
+* Para finalizar el apartado de ideación, presentamos un apartado que se denomina **POV** (*Point of View*). Aquí analizamos una situación, en este caso desde la piel de Diane Douglas, e intentamos comprender qué es realmente lo que quiere el usuario.
 
 ![pov1](https://user-images.githubusercontent.com/75760642/115119303-f729d200-9fa7-11eb-9eb7-647225149615.jpg)
 
 ### PROPUESTA DE VALOR
+
 * A modo de **propuesta de valor**, definimos nuestro proyecto como una aplicación que ayuda a realizar un itinerario, así como una planificación, de un determinado viaje. Una vez realizado el itinerario y adjuntado todos los documentos e imágenes relacionados con éste, se podrá hacer uso de aplicaciones tales como Airbnb o Uber para que el viaje sea más cómodo.
 * A continuación presentamos el **ScopeCanvas**, donde definimos nuestros propósitos y objetivos a la hora de desarrollar nuestro proyecto. También identificamos las necesidades y acciones de nuestros usuarios, así como las métricas para definir nuestro éxito.
 
@@ -55,11 +57,13 @@
 
 
 
-### Prototipo Lo-FI Wireframe 
+### PROTOTIPO LO-FI WIREFRAME
+
+* Finalmente, presentamos una serie de "bocetos" que representan las interfaces más importantes de la aplicación.
 
 ![bocetos_lofi](https://user-images.githubusercontent.com/75760642/115152915-8ea82700-a073-11eb-92ea-16f400878fab.png)
 
 
-### Conclusiones  
+### CONCLUSIONES
 
-Durante esta parte del proyecto hemos aprendido muchas herramientas para sintetizar información acerca de nuestro proyecto. Partocularmente, el prototipo Lo-Fi ha servido para que le "pongamos cara" a la aplicación que queremos desarrollar y hacer una primera aproximación de nuestra interfaz. También nos ha llamado particularmente la atención el "*Empathy Map*", puediendo, valga la redundancia, empatizar con los usuarios que van a utilizar la app. En definitiva, ha servido para sintetizar mucha información necesaria para el proyecto.
+Durante esta parte del proyecto hemos aprendido muchas herramientas para sintetizar información acerca de nuestro proyecto. Particularmente, el prototipo Lo-Fi ha servido para que le "pongamos cara" a la aplicación que queremos desarrollar y hacer una primera aproximación de nuestra interfaz. También nos ha llamado particularmente la atención el "*Empathy Map*", puediendo, valga la redundancia, empatizar con los usuarios que van a utilizar la app. En definitiva, ha servido para sintetizar mucha información necesaria para el proyecto.
