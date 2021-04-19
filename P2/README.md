@@ -40,7 +40,8 @@
 
 * Sitemap 
 
-![sitemap](https://user-images.githubusercontent.com/62752334/115152877-57d21100-a073-11eb-9a23-21b8c163837c.png)
+![sitemap](https://user-images.githubusercontent.com/62752334/115236261-6ffd6b00-a11b-11eb-8c38-3ff98c945cac.png)
+
 
 * Labelling 
 
