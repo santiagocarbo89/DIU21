@@ -104,8 +104,8 @@ Una visión interesante de nuestra aplicación sería a través del filtro de la
 
 * Matriz de Tareas/Usuarios (User Task Matrix) 
 
+![User/Task Matrix](https://user-images.githubusercontent.com/62752334/115282983-1ad94d80-a14b-11eb-8829-26e1a4dd937b.png)
 
-![User/Task Matrix](https://user-images.githubusercontent.com/62752334/115237925-683ec600-a11d-11eb-982d-3695eeabcfff.png)
 
 
 >>> Hemos escogido utilizar la Matriz de usuarios/tareas porque se representa mucho mejor las tareas en referencia al interés o el uso que los usuarios pueden hacer de esa tarea ya que es donde se enumeran una lista de tareas en filas y los perfiles de usuario como columnas y se indica la frecuencia de uso además de resaltar con un color especial las tareas y perfiles más críticos e importantes.
