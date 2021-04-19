@@ -31,7 +31,8 @@
 >>>> ##### Amigos: Grupo de unas cuantas personas que mantienen una relación de amistad.
 
 
-![User/Task Matrix](https://user-images.githubusercontent.com/62752334/115237163-848e3300-a11c-11eb-829d-d6ad3ab96eb8.png)
+![User/Task Matrix](https://user-images.githubusercontent.com/62752334/115237925-683ec600-a11d-11eb-982d-3695eeabcfff.png)
+
 
 
 
