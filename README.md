@@ -104,7 +104,9 @@ Una visión interesante de nuestra aplicación sería a través del filtro de la
 
 * Matriz de Tareas/Usuarios (User Task Matrix) 
 
-![User/Task Matrix](https://user-images.githubusercontent.com/62752334/115282983-1ad94d80-a14b-11eb-8829-26e1a4dd937b.png)
+
+
+![User/Task Matrix](https://user-images.githubusercontent.com/62752334/115283141-48be9200-a14b-11eb-8747-1bca4f0527fb.png)
 
 
 
