@@ -62,9 +62,10 @@
 
 ### PROTOTIPO LO-FI WIREFRAME
 
-* Finalmente, presentamos una serie de "bocetos" que representan las interfaces más importantes de la aplicación.
+* Finalmente, presentamos una serie de "bocetos" que representan las interfaces más importantes de la aplicación. Hemos representado las partes más importantes: **crear cuenta**, donde se crea una nueva en nuestra aplicación, **planificar viaje (sin itinerario)**, donde se va directo a elegir el destino, sin guardar itinerario, y **planificar viaje con itinerario**, donde desarrollamos todos los pasos para que el usuario desarrolle su itinerario.
 
-![bocetos_lofi](https://user-images.githubusercontent.com/75760642/115152915-8ea82700-a073-11eb-92ea-16f400878fab.png)
+
+![bocetos_lofi2](https://user-images.githubusercontent.com/75760642/115285137-cedbd800-a14d-11eb-9816-56760a409a88.png)
 
 
 ### CONCLUSIONES
