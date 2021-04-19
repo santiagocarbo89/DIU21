@@ -2,12 +2,12 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
+* A continuación, aparece representada la **Malla Receptora de Información** (*Feedback Capture Grid*). Nos hemos puesto en la piel de nuestros dos personajes ficticios (Matthew y Diane) para desarrollarla, después de analizar los pros y contras, así como los preguntas, de la aplicación. También hemos añadido una serie de ideas innovadoras.
 
 ![feedback2](https://user-images.githubusercontent.com/75760642/115245717-87415600-a125-11eb-9033-eb2332d98eeb.PNG)
 
 
-* Mapa de empatía
+* En este caso, también en la piel de Matthew y Diane, hemos desarrollado el **Mapa de Empatía** (*Empathy Map*).
 
 ![empathy_map](https://user-images.githubusercontent.com/75760642/115119291-eaa57980-9fa7-11eb-8ddf-97859b26d308.PNG)
 * Point of View 
