@@ -103,6 +103,8 @@ Una visión interesante de nuestra aplicación sería a través del filtro de la
 ![Método UX](img/Sitemap.png) 2.c Tasks analysis 
 
 * Matriz de Tareas/Usuarios (User Task Matrix) 
+
+
 ![User/Task Matrix](https://user-images.githubusercontent.com/62752334/115237925-683ec600-a11d-11eb-982d-3695eeabcfff.png)
 
 
