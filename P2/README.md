@@ -23,12 +23,12 @@
 * User Task Matrix 
 
 >>> En la matriz de usuarios/taresas, podemos distinguir entre 6 conjuntos de perfiles:
->>>> ###### Jóvenes: Se encuentran las personas más jóvenes, dirigido a personas como estudiantes o personas que no son mayores de edad.
->>>> # Adultos: Se encuentran personas de mediana edad que viajan solas.
->>>> Familias: Conjunto de personas de la misma unidad familiar, dirigido a un matrimonio con hijos.
->>>> Parejas: Dirigido a personas que mantienen una relación sentimental.
->>>> Jubilados: Se encuentran las personas mayores que ya no trabajan.
->>>> Amigos: Grupo de unas cuantas personas que mantienen una relación de amistad.
+>>>> ##### Jóvenes: Se encuentran las personas más jóvenes, dirigido a personas como estudiantes o personas que no son mayores de edad.
+>>>> ##### Adultos: Se encuentran personas de mediana edad que viajan solas.
+>>>> ##### Familias: Conjunto de personas de la misma unidad familiar, dirigido a un matrimonio con hijos.
+>>>> ##### Parejas: Dirigido a personas que mantienen una relación sentimental.
+>>>> ##### Jubilados: Se encuentran las personas mayores que ya no trabajan.
+>>>> ##### Amigos: Grupo de unas cuantas personas que mantienen una relación de amistad.
 
 
 ![User/Task Matrix](https://user-images.githubusercontent.com/62752334/115234754-b05be980-a119-11eb-88ec-e9bc64fdea6b.png)
