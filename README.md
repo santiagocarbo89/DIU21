@@ -103,8 +103,8 @@ Una visión interesante de nuestra aplicación sería a través del filtro de la
 ![Método UX](img/Sitemap.png) 2.c Tasks analysis 
 
 * Matriz de Tareas/Usuarios (User Task Matrix) 
+![User/Task Matrix](https://user-images.githubusercontent.com/62752334/115234754-b05be980-a119-11eb-88ec-e9bc64fdea6b.png)
 
-![User/Task Matrix](https://user-images.githubusercontent.com/62752334/115143314-d19fd580-a046-11eb-905a-1887afb19bc7.png)
 
 >>> Hemos escogido utilizar la Matriz de usuarios/tareas porque se representa mucho mejor las tareas en referencia al interés o el uso que los usuarios pueden hacer de esa tarea ya que es donde se enumeran una lista de tareas en filas y los perfiles de usuario como columnas y se indica la frecuencia de uso además de resaltar con un color especial las tareas y perfiles más críticos e importantes.
 >>>> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P2/README.md#)
