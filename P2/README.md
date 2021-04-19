@@ -45,7 +45,7 @@
 
 * Labelling 
 
-![labelling](https://user-images.githubusercontent.com/62752334/115155090-9a4d1b00-a07e-11eb-8044-4232dfbb6b67.png)
+![labelling](https://user-images.githubusercontent.com/62752334/115236864-2cefc780-a11c-11eb-9042-5c7f8d8558a8.png)
 
 
 
