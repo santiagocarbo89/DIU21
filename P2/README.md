@@ -18,7 +18,9 @@
 
 ### PROPUESTA DE VALOR
 
-* A modo de **propuesta de valor**, definimos nuestro proyecto como una aplicación que ayuda a realizar un itinerario, así como una planificación, de un determinado viaje. Una vez realizado el itinerario y adjuntado todos los documentos e imágenes relacionados con éste, se podrá hacer uso de aplicaciones tales como Airbnb o Uber para que el viaje sea más cómodo.
+* A modo de **propuesta de valor**, definimos nuestro proyecto como una aplicación que ayuda a realizar un **itinerario**, así como una **planificación**, de un determinado viaje. Una vez realizado el itinerario y adjuntado todos los documentos e imágenes relacionados con éste, se podrá hacer uso de aplicaciones tales como Airbnb o Uber para que el viaje sea más cómodo. Otras ideas muy interesantes serían desarrollar 
+** F
+
 * A continuación presentamos el **ScopeCanvas**, donde definimos nuestros propósitos y objetivos a la hora de desarrollar nuestro proyecto. También identificamos las necesidades y acciones de nuestros usuarios, así como las métricas para definir nuestro éxito.
 
 ![ScopeCanvas](https://user-images.githubusercontent.com/75760642/115152910-851ebf00-a073-11eb-80a6-32b22511ba6c.PNG)
