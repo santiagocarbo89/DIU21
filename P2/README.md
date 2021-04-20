@@ -28,7 +28,7 @@
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
+* A continuación, presentamos la **User Task Matrix**:
 
 >>> En la matriz de usuarios/taresas, podemos distinguir entre 6 conjuntos de perfiles:
 >>>> ##### Jóvenes: Se encuentran las personas más jóvenes, dirigido a personas como estudiantes o personas que no son mayores de edad.
@@ -49,12 +49,12 @@
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
+* En primer lugar desarrollar el **Sitemap**: 
 
 ![sitemap](https://user-images.githubusercontent.com/62752334/115236261-6ffd6b00-a11b-11eb-8c38-3ff98c945cac.png)
 
 
-* Labelling 
+* Y en segundo lugar desarrollamos el **Labelling**: 
 
 ![labelling](https://user-images.githubusercontent.com/62752334/115236864-2cefc780-a11c-11eb-9042-5c7f8d8558a8.png)
 
