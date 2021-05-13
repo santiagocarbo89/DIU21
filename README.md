@@ -97,12 +97,12 @@ La aplicación es de las mejores que se oferta en el mercado, pero a veces puede
 * A continuación, presentamos la **User Task Matrix**:
 Resaltado en Gris encontramos el público hacia el que más dirigida está la aplicación así como las tareas más importantes.
 En la matriz de usuarios/taresas, podemos distinguir entre 6 conjuntos de perfiles:
-> ##### Jóvenes: Se encuentran las personas más jóvenes, dirigido a personas como estudiantes o personas que no son mayores de edad.
-> ##### Adultos: Se encuentran personas de mediana edad que viajan solas.
-> ##### Familias: Conjunto de personas de la misma unidad familiar, dirigido a un matrimonio con hijos.
-> ##### Parejas: Dirigido a personas que mantienen una relación sentimental.
-> ##### Jubilados: Se encuentran las personas mayores que ya no trabajan.
-> ##### Amigos: Grupo de unas cuantas personas que mantienen una relación de amistad.
+- ##### Jóvenes: Se encuentran las personas más jóvenes, dirigido a personas como estudiantes o personas que no son mayores de edad.
+- ##### Adultos: Se encuentran personas de mediana edad que viajan solas.
+- ##### Familias: Conjunto de personas de la misma unidad familiar, dirigido a un matrimonio con hijos.
+- ##### Parejas: Dirigido a personas que mantienen una relación sentimental.
+- ##### Jubilados: Se encuentran las personas mayores que ya no trabajan.
+- ##### Amigos: Grupo de unas cuantas personas que mantienen una relación de amistad.
 
 Una User/Task Matrix, es una matriz en la que colocamos a los usuarios con las tareas que realiza la aplicación y vemos la importancia o el uso que los usuarios podrían darle a estas tareas.
 
