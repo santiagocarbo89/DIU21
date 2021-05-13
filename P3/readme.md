@@ -11,7 +11,7 @@
 
 ## Guidelines
 
-[sistema iOS de Apple](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+Hemos seguido el ejemplo, esencialmente, del diseño del [sistema iOS de Apple](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/).
 
 
 
