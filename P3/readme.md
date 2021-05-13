@@ -15,7 +15,7 @@ Para llevar a cabo este apartado hemos seguido el ejemplo, esencialmente, del di
 
 Algunos de los patrones que hemos tenido en cuenta son los siguientes:
 
-
+* **Breadcrumbs**: de esta forma, los usuarios pueden navegar de una forma más "guiada", siguiendo un orden jerárquico.
 
 
 ## Mockup: LAYOUT HI-FI
