@@ -13,6 +13,9 @@
 
 Para llevar a cabo este apartado hemos seguido el ejemplo, esencialmente, del diseño del [sistema iOS de Apple](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/).
 
+Algunos de los patrones que hemos tenido en cuenta son los siguientes:
+
+
 
 
 ## Mockup: LAYOUT HI-FI
