@@ -23,6 +23,9 @@ Algunos de los patrones que hemos tenido en cuenta son los siguientes:
 
 
 * **Scroll**: de esta manera le ofrecemos información al usuario sin dársela toda de golpe en una sola pantalla, dándole la opción de deslizar para obtener más información.
+![CArX4](https://user-images.githubusercontent.com/75760642/118115773-aca24680-b3e9-11eb-87fd-d76603285610.png)
+
+
 * **FAQ** (*Frequently Asked Questions*): este apartado permite al usuario consultar de una manera simple y sencilla muchas de las preguntas que se suele hacer y cómo solucionarlas. Si el usuario tiene consultas más complejas podrá consultarlas mediante atención telefónica.
 
 
