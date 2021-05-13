@@ -9,9 +9,9 @@
 
 ![landing_page](https://user-images.githubusercontent.com/75760642/117292733-d3ec9700-ae70-11eb-9e4c-b1e70f6ce629.png)
 
-## Guidelines
+## Patrones IU y Guidelines
 
-Hemos seguido el ejemplo, esencialmente, del diseño del [sistema iOS de Apple](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/).
+Para llevar a cabo este apartado hemos seguido el ejemplo, esencialmente, del diseño del [sistema iOS de Apple](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/).
 
 
 
