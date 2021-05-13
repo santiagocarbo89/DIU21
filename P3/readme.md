@@ -27,6 +27,7 @@ Algunos de los patrones que hemos tenido en cuenta son los siguientes:
 
 
 * **FAQ** (*Frequently Asked Questions*): este apartado permite al usuario consultar de una manera simple y sencilla muchas de las preguntas que se suele hacer y cómo solucionarlas. Si el usuario tiene consultas más complejas podrá consultarlas mediante atención telefónica.
+![apple-online-store-faq](https://user-images.githubusercontent.com/75760642/118115877-ce033280-b3e9-11eb-86b0-c57feee97ce9.png)
 
 
 ## Mockup: LAYOUT HI-FI
