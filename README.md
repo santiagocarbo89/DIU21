@@ -5,13 +5,13 @@ Grupo: DIU1_Salsoteca  Curso: 2020/21
 Updated: 8/11/2021
 
 Proyecto: 
->>> Navis, aplicación para realizar itinerarios y planificar viajes
+Navis, aplicación para realizar itinerarios y planificar viajes
 
 Descripción: 
->>> Nuestra idea es realizar una aplicación que permitar realizar itinerarios de viajes personalizados, permitiendo a los usuarios guardar documentos, imágenes y videos relacionadas con el mismo, así como estimar un saldo común para su viaje. Para nuestro proyecto sería también interesante asociarse con servicios tales como Airbnb o Uber para facilitar el alojamiento y el transporte durante el viaje.
+Nuestra idea es realizar una aplicación que permitar realizar itinerarios de viajes personalizados, permitiendo a los usuarios guardar documentos, imágenes y videos relacionadas con el mismo, así como estimar un saldo común para su viaje. Para nuestro proyecto sería también interesante asociarse con servicios tales como Airbnb o Uber para facilitar el alojamiento y el transporte durante el viaje.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
  * :bust_in_silhouette:  [Santiago Carbó García](https://github.com/santiagocarbo89/)     :octocat:     
@@ -29,8 +29,8 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 
 
->>> De entre diversas aplicaciones como [TripIt](https://www.tripit.com/web), [RoadTrippers](https://roadtrippers.com/) o [WonderLog](https://wanderlog.com/), nos hemos quedado con [Lambus](https://www.lambus.com/) ya que es una aplicación muy completa pero pensabamos que escoger la mejor, en este caso wonderlog, no habría mucho con lo que comparar.
->>>> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P1/README.md#competitive-analysis)
+De entre diversas aplicaciones como [TripIt](https://www.tripit.com/web), [RoadTrippers](https://roadtrippers.com/) o [WonderLog](https://wanderlog.com/), nos hemos quedado con [Lambus](https://www.lambus.com/) ya que es una aplicación muy completa pero pensabamos que escoger la mejor, en este caso wonderlog, no habría mucho con lo que comparar.
+> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P1/README.md#competitive-analysis)
 
 
 ![Método UX](img/Persona.png) 1.b Persona
@@ -41,8 +41,8 @@ Miembros
 ![DianeDouglasPersona](https://user-images.githubusercontent.com/75760642/111619061-65327c00-87e5-11eb-8941-7917ccb4b08f.png)
 
 
->>> Hemos seleccionado estas dos personas con unos buenos intereses en viajar pero con vidas realistas.
->>>>  [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P1/README.md#persona)
+ Hemos seleccionado estas dos personas con unos buenos intereses en viajar pero con vidas realistas.
+>  [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P1/README.md#persona)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 
@@ -51,16 +51,16 @@ Miembros
 
 
 
->>> En estos journey map, hemos puesto casos reales que les podrían pasar a los usuarios
+ En estos journey map, hemos puesto casos reales que les podrían pasar a los usuarios
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad)
->>>> - Enlace al [documento](https://github.com/santiagocarbo89/DIU21/blob/master/P1/UsabilityLambus.xls) 
->>>> - Valoración final (numérica): 76
->>>> - Comentario sobre la valoración:
->>>> La aplicación es de las mejores que se oferta en el mercado, pero a veces puede fallar en algunos aspectos respecto a otras aplicaciones. Es una de las aplicaciones líderes aunque tenga defectos como pagos en algunos sistemas o modos de uso complicados. 
->>>>> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P1/README.md#usability-review)
+  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad)
+> - Enlace al [documento](https://github.com/santiagocarbo89/DIU21/blob/master/P1/UsabilityLambus.xls) 
+> - Valoración final (numérica): 76
+> - Comentario sobre la valoración:
+> La aplicación es de las mejores que se oferta en el mercado, pero a veces puede fallar en algunos aspectos respecto a otras aplicaciones. Es una de las aplicaciones líderes aunque tenga defectos como pagos en algunos sistemas o modos de uso complicados. 
+>> [Información completa](https://github.com/santiagocarbo89/DIU21/blob/master/P1/README.md#usability-review)
 
 
 
@@ -95,15 +95,16 @@ Miembros
 ### TASK ANALYSIS
 
 * A continuación, presentamos la **User Task Matrix**:
+Resaltado en Gris encontramos el público hacia el que más dirigida está la aplicación así como las tareas más importantes.
+En la matriz de usuarios/taresas, podemos distinguir entre 6 conjuntos de perfiles:
+> ##### Jóvenes: Se encuentran las personas más jóvenes, dirigido a personas como estudiantes o personas que no son mayores de edad.
+> ##### Adultos: Se encuentran personas de mediana edad que viajan solas.
+> ##### Familias: Conjunto de personas de la misma unidad familiar, dirigido a un matrimonio con hijos.
+> ##### Parejas: Dirigido a personas que mantienen una relación sentimental.
+> ##### Jubilados: Se encuentran las personas mayores que ya no trabajan.
+> ##### Amigos: Grupo de unas cuantas personas que mantienen una relación de amistad.
 
->>> En la matriz de usuarios/taresas, podemos distinguir entre 6 conjuntos de perfiles:
->>>> ##### Jóvenes: Se encuentran las personas más jóvenes, dirigido a personas como estudiantes o personas que no son mayores de edad.
->>>> ##### Adultos: Se encuentran personas de mediana edad que viajan solas.
->>>> ##### Familias: Conjunto de personas de la misma unidad familiar, dirigido a un matrimonio con hijos.
->>>> ##### Parejas: Dirigido a personas que mantienen una relación sentimental.
->>>> ##### Jubilados: Se encuentran las personas mayores que ya no trabajan.
->>>> ##### Amigos: Grupo de unas cuantas personas que mantienen una relación de amistad.
-
+Una User/Task Matrix, es una matriz en la que colocamos a los usuarios con las tareas que realiza la aplicación y vemos la importancia o el uso que los usuarios podrían darle a estas tareas.
 
 ![User/Task Matrix](https://user-images.githubusercontent.com/62752334/115283141-48be9200-a14b-11eb-8747-1bca4f0527fb.png)
 
