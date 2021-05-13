@@ -94,7 +94,7 @@ La aplicación es de las mejores que se oferta en el mercado, pero a veces puede
 
 ### TASK ANALYSIS
 
-* A continuación, presentamos la **User Task Matrix**:
+A continuación, presentamos la **User Task Matrix**:
 Resaltado en Gris encontramos el público hacia el que más dirigida está la aplicación así como las tareas más importantes.
 En la matriz de usuarios/taresas, podemos distinguir entre 6 conjuntos de perfiles:
 - ##### Jóvenes: Se encuentran las personas más jóvenes, dirigido a personas como estudiantes o personas que no son mayores de edad.
