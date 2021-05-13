@@ -11,8 +11,8 @@
 
 ## Guidelines
 
-sistema iOS de Apple
-https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
+[sistema iOS de Apple](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+
 
 
 ## Mockup: LAYOUT HI-FI
