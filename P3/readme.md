@@ -19,7 +19,7 @@ Algunos de los patrones que hemos tenido en cuenta son los siguientes:
 <img width="232" alt="breadcrumbs" src="https://user-images.githubusercontent.com/75760642/118110519-c8561e80-b3e2-11eb-9890-ced0dd35d9e3.png">
 
 * **Account registration** (*registro*): de esta manera guardamos y almacenamos información del usuario y, a cambio, le ofrecemos algún contenido extra: acceso a ofertas, realización de compras, etc.
-![register](https://user-images.githubusercontent.com/75760642/118110674-ffc4cb00-b3e2-11eb-96a3-402db7eacdff.jpg)
+![register](https://user-images.githubusercontent.com/75760642/118115565-66e57e00-b3e9-11eb-8cf7-1832f8a5c5e7.png)
 
 * **Scroll**: de esta manera le ofrecemos información al usuario sin dársela toda de golpe en una sola pantalla, dándole la opción de deslizar para obtener más información.
 * **FAQ** (*Frequently Asked Questions*): este apartado permite al usuario consultar de una manera simple y sencilla muchas de las preguntas que se suele hacer y cómo solucionarlas. Si el usuario tiene consultas más complejas podrá consultarlas mediante atención telefónica.
