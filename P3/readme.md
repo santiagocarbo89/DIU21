@@ -17,6 +17,8 @@ Algunos de los patrones que hemos tenido en cuenta son los siguientes:
 
 * **Breadcrumbs** (*migas de pan*): de esta forma los usuarios pueden navegar de una forma más "guiada", siguiendo un orden jerárquico.
 * **Account registration** (*registro*): de esta manera guardamos y almacenamos información del usuario y, a cambio, le ofrecemos algún contenido extra: acceso a ofertas, realización de compras, etc.
+* **Scroll**: de esta manera le ofrecemos información al usuario sin dársela toda de golpe en una sola pantalla, dándole la opción de deslizar para obtener más información.
+* **FAQ** (*Frequently Asked Questions*): este apartado permite al usuario consultar de una manera simple y sencilla muchas de las preguntas que se suele hacer y cómo solucionarlas. Si el usuario tiene consultas más complejas podrá consultarlas mediante atención telefónica.
 
 
 ## Mockup: LAYOUT HI-FI
