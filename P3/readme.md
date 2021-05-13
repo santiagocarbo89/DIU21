@@ -15,7 +15,8 @@ Para llevar a cabo este apartado hemos seguido el ejemplo, esencialmente, del di
 
 Algunos de los patrones que hemos tenido en cuenta son los siguientes:
 
-* **Breadcrumbs**: de esta forma, los usuarios pueden navegar de una forma más "guiada", siguiendo un orden jerárquico.
+* **Breadcrumbs** (*migas de pan*): de esta forma los usuarios pueden navegar de una forma más "guiada", siguiendo un orden jerárquico.
+* **Account registration** (*registro*): de esta manera guardamos y almacenamos información del usuario y, a cambio, le ofrecemos algún contenido extra: acceso a ofertas, realización de compras, etc.
 
 
 ## Mockup: LAYOUT HI-FI
