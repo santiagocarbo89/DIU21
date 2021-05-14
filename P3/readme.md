@@ -7,7 +7,8 @@
 
 ## Landing Page
 
-![landing_page](https://user-images.githubusercontent.com/75760642/117292733-d3ec9700-ae70-11eb-9e4c-b1e70f6ce629.png)
+![landing_page](https://user-images.githubusercontent.com/75760642/118285856-2d3c7200-b4d2-11eb-88e4-d5547bfcb532.png)
+
 
 ## Patrones IU y Guidelines
 
