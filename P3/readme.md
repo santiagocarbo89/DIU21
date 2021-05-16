@@ -33,6 +33,7 @@ Algunos de los patrones que hemos tenido en cuenta son los siguientes:
 
 ## Mockup: LAYOUT HI-FI
 
+Han sido realizados en Adobe XD para iPhone 12 Pro Max (428 x 926 px).
 
 ## Documentación: Publicación del Case Study
 
