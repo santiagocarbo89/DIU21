@@ -2,7 +2,8 @@
 
 ## Moodboard (diseño visual + logotipo)   
 
-![export_canvas_moodboard-de-navis-210505_1647](https://user-images.githubusercontent.com/75760642/117178608-87527e80-add2-11eb-8836-394aedd65443.png)
+![moodboard](https://user-images.githubusercontent.com/75760642/118404252-690e3d80-b672-11eb-87fc-f9ed70aa3db0.png)
+
 
 
 ## Landing Page
