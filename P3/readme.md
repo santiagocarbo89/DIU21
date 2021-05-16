@@ -39,4 +39,14 @@ Han sido realizados en Adobe XD para iPhone 12 Pro Max (428 x 926 px).
 
 
 (incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
- 
+
+Acerca del MoodBoard, los principales problemas a la hora de realizar el moodboard fueron la elección de colores, y sobre todo la elección de colores secundarios. El logo de la aplicación durió bastante rápido no tuvimos mucho problema a la hora de realizarlo así como la letra, la cual pensamos cual podía ser el estilo de letra que más combinara con los colores tanto de nuestro logo como de la paleta que hemos creado. Los iconos creemos que han sido los idóneos ara una aplicación como esta y las imágenes inspiradoras que vimos nos sirvieron mucho para realizar tanto el moodboard como el Layout HIFI que posteriormente veremos. Para la creación tanto del moodboard completo como de los diferentes elementos que conforman el mismo, hemos usado draw.io la cual nos permitía hacer diseños sencillos y muy fácil de usar.
+
+En cuanto al Landing Page, en primera instancia realizamos uno pero que no se adaptaba mucho a lo que queríamos transmitir con nuestra aplicación, así que volvimos a crearlo de cero con una plantilla bastante útil de la página ... .Creimos necesario que en nuestr página, nada más entrar se viera claramente tanto dónde iniciar sesión como dónde crear una cuenta. Además añadimos una opción para descargar la aplicación orientado a los dispositivos móviles.
+
+A la hora de hablar de Patrones IU y Guidelines, tenemos que hablar de la influencia que han tenido los diseños del software de iOS de la compañía Apple y es que,
+la base de los patrones que hemos incluido han sido todos inspirados en este software. En primer lugar no supimos bien como orientar el trabajo en este punto pero creemos que con la ayuda de la página web del desarrollador del software de apple hemos conseguido incluirlos de la mejor manera incluyendo funciones muy útiles.
+
+Para realizar el Layout HIFI, nos hemos ayudado de la herramienta Adobe XD, la cual nos ha costado llegar a entender pero finalmente hemos conseguido plasmar en estos diseños lo que queríamo trasladar en las imágenes. Hemos cogido de inspiración el anterior Layout LOFI, pero creemos que con estos diseños hemos transmitido bastante mejor las ideas que había en el LOFI así como facilitar los diseños de cara a mejoras o ampliaciones en un futuro.
+
+La valoración final ha sido de 8/10, ya que ha sido una práctica más dinámica y entretenida que las anteriores, pero como contraparte queremos destacar que como teníamos tanta libertad a veces ha sido confuso escoger los diseños.
