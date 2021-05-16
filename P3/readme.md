@@ -10,7 +10,7 @@ Las imágenes inspiradoras también nos han ayudado a la hora de los colores y d
 
 
 ## Landing Page
-A la hora de realizar la Landing Page, nos hemos ayudado de [wix](wix.com). Hemos seguido las influencias del MoodBoard como se ve en la imagen de fondo o en los colores que hemos utilizado para los botones de inicio de sesión y crear cuenta. Creemos que la landing page es muy limpia, con colores que trasladan al ámbito marino y que se conectan muy bien con lo que queremos representar en la compañía.
+A la hora de realizar la Landing Page, nos hemos ayudado de [wix](https://www.wix.com/). Hemos seguido las influencias del MoodBoard como se ve en la imagen de fondo o en los colores que hemos utilizado para los botones de inicio de sesión y crear cuenta. Creemos que la landing page es muy limpia, con colores que trasladan al ámbito marino y que se conectan muy bien con lo que queremos representar en la compañía.
 
 ![landing_page](https://user-images.githubusercontent.com/75760642/118285856-2d3c7200-b4d2-11eb-88e4-d5547bfcb532.png)
 
@@ -55,7 +55,7 @@ Para realizar estos diseños, nos hemos inspirado en el layout LOFI de la práct
 
 Acerca del MoodBoard, los principales problemas a la hora de realizar el moodboard fueron la elección de colores, y sobre todo la elección de colores secundarios. El logo de la aplicación durió bastante rápido no tuvimos mucho problema a la hora de realizarlo así como la letra, la cual pensamos cual podía ser el estilo de letra que más combinara con los colores tanto de nuestro logo como de la paleta que hemos creado. Los iconos creemos que han sido los idóneos ara una aplicación como esta y las imágenes inspiradoras que vimos nos sirvieron mucho para realizar tanto el moodboard como el Layout HIFI que posteriormente veremos. Para la creación tanto del moodboard completo como de los diferentes elementos que conforman el mismo, hemos usado draw.io la cual nos permitía hacer diseños sencillos y muy fácil de usar.
 
-En cuanto al Landing Page, en primera instancia realizamos uno pero que no se adaptaba mucho a lo que queríamos transmitir con nuestra aplicación, así que volvimos a crearlo de cero con una plantilla bastante útil de la página [wix](wix.com) .Creimos necesario que en nuestr página, nada más entrar se viera claramente tanto dónde iniciar sesión como dónde crear una cuenta. Además añadimos una opción para descargar la aplicación orientado a los dispositivos móviles.
+En cuanto al Landing Page, en primera instancia realizamos uno pero que no se adaptaba mucho a lo que queríamos transmitir con nuestra aplicación, así que volvimos a crearlo de cero con una plantilla bastante útil de la página [wix](https://www.wix.com/) .Creimos necesario que en nuestr página, nada más entrar se viera claramente tanto dónde iniciar sesión como dónde crear una cuenta. Además añadimos una opción para descargar la aplicación orientado a los dispositivos móviles.
 
 A la hora de hablar de Patrones IU y Guidelines, tenemos que hablar de la influencia que han tenido los diseños del software de iOS de la compañía Apple y es que,
 la base de los patrones que hemos incluido han sido todos inspirados en este software. En primer lugar no supimos bien como orientar el trabajo en este punto pero creemos que con la ayuda de la página web del desarrollador del software de apple hemos conseguido incluirlos de la mejor manera incluyendo funciones muy útiles.
