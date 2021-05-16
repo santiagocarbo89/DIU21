@@ -38,6 +38,7 @@ Han sido realizados en Adobe XD para iPhone 12 Pro Max (428 x 926 px).
 
 
 ![collage1](https://user-images.githubusercontent.com/75760642/118404523-93142f80-b673-11eb-846e-e4c204ecc3a9.png)
+![collage2](https://user-images.githubusercontent.com/75760642/118404586-ce166300-b673-11eb-8aef-ea5dc16c5157.png)
 
 
 
