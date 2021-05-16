@@ -37,8 +37,7 @@ Algunos de los patrones que hemos tenido en cuenta son los siguientes:
 Han sido realizados en Adobe XD para iPhone 12 Pro Max (428 x 926 px).
 
 
-![Pantalla de inicio de la aplicación](https://user-images.githubusercontent.com/75760642/118404326-c6a28a00-b672-11eb-8369-5d3eb5bde414.png)
-![Acceso](https://user-images.githubusercontent.com/75760642/118404327-c904e400-b672-11eb-96c0-45d388633273.png)
+![collage1](https://user-images.githubusercontent.com/75760642/118404523-93142f80-b673-11eb-846e-e4c204ecc3a9.png)
 
 
 
