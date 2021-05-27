@@ -158,12 +158,18 @@ Durante esta parte del proyecto hemos aprendido muchas herramientas para sinteti
 ----
 
 * Breadcrumbs:
+
+
 ![image](https://user-images.githubusercontent.com/62752334/119808122-1dfef080-bee4-11eb-9cec-e05a6a66d46b.png)
 
 * Account registration:
+
+
 ![image](https://user-images.githubusercontent.com/62752334/119808188-2c4d0c80-bee4-11eb-9d3e-b83fd4ac6aa1.png)
 
 * Scroll:
+
+
 ![image](https://user-images.githubusercontent.com/62752334/119808251-3b33bf00-bee4-11eb-9aa0-73629a4e605b.png)
 
 * FAQ:
