@@ -147,37 +147,40 @@ Durante esta parte del proyecto hemos aprendido muchas herramientas para sinteti
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
+![image](https://user-images.githubusercontent.com/62752334/119808023-ff98f500-bee3-11eb-8995-c48877cfbb76.png)
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
-----
 
+![image](https://user-images.githubusercontent.com/62752334/119808065-0b84b700-bee4-11eb-9ff2-7d40d28416e7.png)
 
->>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+* Breadcrumbs:
+![image](https://user-images.githubusercontent.com/62752334/119808122-1dfef080-bee4-11eb-9cec-e05a6a66d46b.png)
+
+* Account registration:
+![image](https://user-images.githubusercontent.com/62752334/119808188-2c4d0c80-bee4-11eb-9d3e-b83fd4ac6aa1.png)
+
+* Scroll:
+![image](https://user-images.githubusercontent.com/62752334/119808251-3b33bf00-bee4-11eb-9aa0-73629a4e605b.png)
+
+* FAQ:
+![image](https://user-images.githubusercontent.com/62752334/119808296-4555bd80-bee4-11eb-8b62-99bc21ece31a.png)
+
+
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
-----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![image](https://user-images.githubusercontent.com/62752334/119808336-50a8e900-bee4-11eb-969e-a8914b7e25b2.png)
+![image](https://user-images.githubusercontent.com/62752334/119808358-56063380-bee4-11eb-9ab7-4c0e7c70b7d4.png)
+![image](https://user-images.githubusercontent.com/62752334/119808385-5bfc1480-bee4-11eb-946b-ea6b128866a1.png)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
+Enlace al [vídeo](https://youtu.be/L9DWngRv_P8)
 
 ## Paso 4. Evaluación 
 
