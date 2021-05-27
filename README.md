@@ -183,7 +183,6 @@ Durante esta parte del proyecto hemos aprendido muchas herramientas para sinteti
 ![image](https://user-images.githubusercontent.com/62752334/119808358-56063380-bee4-11eb-9ab7-4c0e7c70b7d4.png)
 ![image](https://user-images.githubusercontent.com/62752334/119808385-5bfc1480-bee4-11eb-946b-ea6b128866a1.png)
 
-
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 Enlace al [vídeo](https://youtu.be/L9DWngRv_P8)
