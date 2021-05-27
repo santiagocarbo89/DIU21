@@ -51,7 +51,7 @@ Para realizar estos diseños, nos hemos inspirado en el layout LOFI de la práct
 ## Documentación: Publicación del Case Study
 
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+Enlace al [vídeo](https://youtu.be/L9DWngRv_P8)
 
 Acerca del MoodBoard, los principales problemas a la hora de realizar el moodboard fueron la elección de colores, y sobre todo la elección de colores secundarios. El logo de la aplicación surgió bastante rápido no tuvimos mucho problema a la hora de realizarlo así como la letra, la cual pensamos cual podía ser el estilo de letra que más combinara con los colores tanto de nuestro logo como de la paleta que hemos creado. Los iconos creemos que han sido los idóneos para una aplicación como esta y las imágenes inspiradoras que vimos nos sirvieron mucho para realizar tanto el moodboard como el Layout HIFI que posteriormente veremos. Para la creación tanto del moodboard completo como de los diferentes elementos que conforman el mismo, hemos usado draw.io la cual nos permitía hacer diseños sencillos y muy fácil de usar.
 
