@@ -3,9 +3,11 @@
 Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
 
 
-## Caso 1
+## Caso 1 - Navis
 
-Descripcion y hoja de valoración.    
+Navis es una aplicación diseñada para planear un viaje, es decir, los vuelos, los hoteles u hostales, y el transporte en el destino, así como la opción de realizar un itinerario y agregar imágenes, vídeos, audios, en definitiva, experiencias.    
+
+![landing_page](https://user-images.githubusercontent.com/75760642/120108140-28c7b880-c164-11eb-9849-60fb3a112ef2.png)
 
 
 ## Caso 2
