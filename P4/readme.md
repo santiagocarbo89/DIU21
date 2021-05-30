@@ -37,11 +37,9 @@ Para elaborar el test de usabilidad, han participado los siguientes usuarios:
 ![Screenshot_20210530_173406](https://user-images.githubusercontent.com/62752334/120110346-5c5b1080-c16d-11eb-8d2d-5859ce1bdde7.png)
 
 
-	Describe la experiencia 1
+	Experiencia 1 : Navis. 
 
-	Describe la experiencia 2
-
-	Describe la experiencia 3
+	Experiencia 2 : VisitaGranada.
 
 
 ## Conclusiones
