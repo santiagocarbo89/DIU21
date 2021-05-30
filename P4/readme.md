@@ -38,9 +38,9 @@ Para elaborar el test de usabilidad, han participado los siguientes usuarios:
 	Experiencia 1 : Navis. 
 
 	Experiencia 2 : VisitaGranada.
-** Navis **
+**Navis**
 
-** VisitaGranada **
+**VisitaGranada**
 ![Screenshot_20210530_181302](https://user-images.githubusercontent.com/62752334/120111575-b8746380-c172-11eb-88a7-74a8081ba577.png)
 
 
