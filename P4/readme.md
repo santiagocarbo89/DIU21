@@ -25,14 +25,14 @@ Descripcion y hoja de valoración.
 
 Para elaborar el test de usabilidad, han participado los siguientes usuarios:
 
-* **Usuario 1**: Profesora de universidad de la facultad de Odontología, 48 años. Utiliza Internet bastante a menudo, de forma que tiene bastante experiencia.
+* **Usuario 1**: Profesora de universidad de la facultad de Odontología, 48 años. Utiliza Internet bastante a menudo, de forma que tiene algo de experiencia.
 * **Usuario 2**: Chica estudiante de audiología, 19 años. Utiliza Internet a diario, tiene bastante experiencia.
 * **Usuario 3**: Mujer jubilada, 82 años. Usa Internet desde hace solo unos pocos años, y no se desentiende muy bien. No tiene mucha experiencia.
 * **Usuario 4**: Hombre de 60 años, ingeniero aeronáutico. Utiliza Internet muy a menudo en el trabajo, tiene experiencia pero hay aspectos que le son difíciles.
 * **Usuario 5**: Chico estudiante de derecho, 19 años. Utiliza Internet todos los días tanto para trabajo como para ocio, tiene bastante experiencia.
-* **Usuario 6**: Chica estudiante de psicología, 21 años. Usa el Internet a diario para trabajo y de manera personal, tiene bastante experiencia.
-* **Usuario 7**: Hombre jubilado, 84 años. Aunque lleva usando Internet poco tiempo, sabe desenvolverse con algunas aplicaciones, pero no tiene mucha experiencia.
-* **Usuario 8**: Hombre farmacéutico, 32 años. Utiliza Internet principalmente en el trabajo, tiene experiencia pero no demasiada.
+* **Usuario 6**: Chica estudiante de psicología, 21 años. Usa el Internet para trabajo y de manera personal, pero no tiene mucha experiencia.
+* **Usuario 7**: Hombre jubilado, 84 años. Lleva usando Internet unos cuantos años y sabe prácticamente de todo, tiene mucha experiencia.
+* **Usuario 8**: Hombre farmacéutico, 32 años. Utiliza Internet principalmente en el trabajo, aunque no se desenvuelve bien, no tiene mucha experiencia.
 
 ![Screenshot_20210530_173406](https://user-images.githubusercontent.com/62752334/120110346-5c5b1080-c16d-11eb-8d2d-5859ce1bdde7.png)
 
