@@ -48,3 +48,9 @@ Para elaborar el test de usabilidad, han participado los siguientes usuarios:
 
 
 ## Conclusiones
+
+
+[Informe de Usabilidad de Navis](https://github.com/santiagocarbo89/DIU21/files/6566614/DIU_report-template-usability-testOK-Navis.pdf)
+
+[Informe de Usabilidad de VisitaGranada](https://github.com/santiagocarbo89/DIU21/files/6566617/DIU_report-template-usability-testOK-VisitaGranada.pdf)
+
