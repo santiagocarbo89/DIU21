@@ -42,7 +42,7 @@ Para elaborar el test de usabilidad, han participado los siguientes usuarios:
 
 **VisitaGranada**
 
-<img src="https://user-images.githubusercontent.com/62752334/120111575-b8746380-c172-11eb-88a7-74a8081ba577.png" width="400">
+<img src="https://user-images.githubusercontent.com/62752334/120111575-b8746380-c172-11eb-88a7-74a8081ba577.png" width="750">
 
 
 ## Conclusiones
