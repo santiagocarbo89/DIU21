@@ -31,7 +31,7 @@ Para elaborar el test de usabilidad, han participado los siguientes usuarios:
 * **Usuario 5**: Chico estudiante de derecho, 19 años. Utiliza Internet todos los días tanto para trabajo como para ocio, tiene bastante experiencia.
 * **Usuario 6**: Chica estudiante de psicología, 21 años. Usa el Internet a diario para trabajo y de manera personal, tiene bastante experiencia.
 * **Usuario 7**: Hombre jubilado, 84 años. Aunque lleva usando Internet poco tiempo, sabe desenvolverse con algunas aplicaciones, pero no tiene mucha experiencia.
-* **Usuario 8**: Hombre farmacéutico, 32 años.
+* **Usuario 8**: Hombre farmacéutico, 32 años. Utiliza Internet principalmente en el trabajo, tiene experiencia pero no demasiada.
 
 
 	Describe la experiencia 1
