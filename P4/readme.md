@@ -23,6 +23,11 @@ Descripcion y hoja de valoración.
 
 ## User Testing
 
+Para elaborar el test de usabilidad, han participado los siguientes usuarios:
+
+-- Polla
+
+
 	Describe la experiencia 1
 
 	Describe la experiencia 2
