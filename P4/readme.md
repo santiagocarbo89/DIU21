@@ -10,9 +10,9 @@ Navis es una aplicación diseñada para planear un viaje, es decir, los vuelos, 
 ![landing_page](https://user-images.githubusercontent.com/75760642/120108140-28c7b880-c164-11eb-9849-60fb3a112ef2.png)
 
 
-## Caso 2
+## Caso 2 - VisitaGranada
 
-Descripcion y hoja de valoración.  
+VisitaGranada es una aplicación cuyo objetivo es planificar viajes a Granada, además de ofrecer información acerca de diversas actividades y eventos dentro de la ciudad.
 
 
 ## Caso 3
