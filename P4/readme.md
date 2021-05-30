@@ -50,7 +50,16 @@ Para elaborar el test de usabilidad, han participado los siguientes usuarios:
 ## Conclusiones
 
 
-[Informe de Usabilidad de Navis](https://github.com/santiagocarbo89/DIU21/files/6566614/DIU_report-template-usability-testOK-Navis.pdf)
+[Informe de Usabilidad de Navis: ](https://github.com/santiagocarbo89/DIU21/files/6566614/DIU_report-template-usability-testOK-Navis.pdf)
 
-[Informe de Usabilidad de VisitaGranada](https://github.com/santiagocarbo89/DIU21/files/6566617/DIU_report-template-usability-testOK-VisitaGranada.pdf)
+A modo de conclusión, nos damos cuenta de que tenemos cuatro usuarios cuyas valoraciones se encuentran por encima de 80.3 (Puntuación A). Por otro lado, tenemos tres usuarios por encima de 68 (Puntuación B, ya que se encuentran bastante por encima). Finalmente, tenemos un usuario que tiene una puntuación por debajo de 51 (Puntuación F). Pese a la amplia variedad de notas, el promedio sería 74.06, es decir, una puntuación B.
+
+Aunque a la amplia mayoría de los usuarios les ha gustado la aplicación, este resultado denota que al público general le gusta, sin embargo, existe un bajo porcentaje a quien no le gusta nada. O te encanta o no te gusta nada. También es importante puntuar que la puntuación negativa la ha valorado una persona mayor que no se desenvuelve mucho con Internet, de forma que, en cierto modo, es normal.
+
+
+[Informe de Usabilidad de VisitaGranada: ](https://github.com/santiagocarbo89/DIU21/files/6566617/DIU_report-template-usability-testOK-VisitaGranada.pdf)
+
+A modo de conclusión, nos damos cuenta de que tenemos tres usuarios cuyas valoraciones se encuentran por encima de 80.3 (Puntuación A). Por otro lado, tenemos cuatro usuarios por encima de 68 (Puntuación B, ya que se encuentran bastante por encima). Finalmente, tenemos un usuario que tiene una puntuación por debajo de 51 (Puntuación F). Pese a la amplia variedad de notas, el promedio sería 72.81 , es decir, una puntuación B.
+
+Los resultados resaltan que la aplicación en general gusta bastante a la mayoría de los usuarios a los que se ha preguntado. Cabe destacar que el usuario que ha obtenido una puntuación baja la ha obtenido porque es una persona mayor que no tiene ninguna experiencia relativa al mundo de la informática. Como conclusión final podemos decir que la amplia mayoría de los usuarios querrán utilizar esta página y que les será, en general, bastante fácil de usar.
 
