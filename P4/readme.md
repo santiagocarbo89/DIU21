@@ -33,8 +33,7 @@ Para elaborar el test de usabilidad, han participado los siguientes usuarios:
 * **Usuario 7**: Hombre jubilado, 84 años. Lleva usando Internet unos cuantos años y sabe prácticamente de todo, tiene mucha experiencia.
 * **Usuario 8**: Hombre farmacéutico, 32 años. Utiliza Internet principalmente en el trabajo, aunque no se desenvuelve bien, no tiene mucha experiencia.
 
-![Usuarios](https://user-images.githubusercontent.com/62752334/120110600-692c3400-c16e-11eb-99e5-d2d3e816b338.png)
-
+<img src="https://user-images.githubusercontent.com/62752334/120110600-692c3400-c16e-11eb-99e5-d2d3e816b338.png" width="400">
 
 	Experiencia 1 : Navis. 
 
