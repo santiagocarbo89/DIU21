@@ -40,6 +40,8 @@ Para elaborar el test de usabilidad, han participado los siguientes usuarios:
 	Experiencia 2 : VisitaGranada.
 **Navis**
 
+<img src="https://user-images.githubusercontent.com/62752334/120111986-47ce4680-c174-11eb-8f67-8c1584a52eac.png" width="750">
+
 **VisitaGranada**
 
 <img src="https://user-images.githubusercontent.com/62752334/120111575-b8746380-c172-11eb-88a7-74a8081ba577.png" width="750">
