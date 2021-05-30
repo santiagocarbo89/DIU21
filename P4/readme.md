@@ -25,8 +25,10 @@ Descripcion y hoja de valoración.
 
 Para elaborar el test de usabilidad, han participado los siguientes usuarios:
 
-* **Usuario 1**: Profesora de universidad de la facultad de Odontología, 48 años.
-* Usuario 2
+* **Usuario 1**: Profesora de universidad de la facultad de Odontología, 48 años. Utiliza Internet bastante a menudo, de forma que tiene bastante experiencia.
+* **Usuario 2**: Estudiante de audiología, 19 años. Utiliza Internet a diario, tiene bastante experiencia.
+* **Usuario 3**: Mujer jubilada, 82 años. Usa Internet desde hace solo unos pocos años, y no se desentiende muy bien. No tiene mucha experiencia.
+* **Usuario 4**: 
 
 
 	Describe la experiencia 1
