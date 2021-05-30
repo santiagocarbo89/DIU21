@@ -1,3 +1,4 @@
+![Screenshot_20210530_173406](https://user-images.githubusercontent.com/62752334/120110330-52391200-c16d-11eb-8c09-b7386c8fb965.png)
 # DIU - Practica 4, entregables
 
 Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
@@ -32,6 +33,8 @@ Para elaborar el test de usabilidad, han participado los siguientes usuarios:
 * **Usuario 6**: Chica estudiante de psicología, 21 años. Usa el Internet a diario para trabajo y de manera personal, tiene bastante experiencia.
 * **Usuario 7**: Hombre jubilado, 84 años. Aunque lleva usando Internet poco tiempo, sabe desenvolverse con algunas aplicaciones, pero no tiene mucha experiencia.
 * **Usuario 8**: Hombre farmacéutico, 32 años. Utiliza Internet principalmente en el trabajo, tiene experiencia pero no demasiada.
+
+![Screenshot_20210530_173406](https://user-images.githubusercontent.com/62752334/120110346-5c5b1080-c16d-11eb-8d2d-5859ce1bdde7.png)
 
 
 	Describe la experiencia 1
