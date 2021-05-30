@@ -25,7 +25,8 @@ Descripcion y hoja de valoración.
 
 Para elaborar el test de usabilidad, han participado los siguientes usuarios:
 
--- Polla
+* **Usuario 1**: Profesora de universidad de la facultad de Odontología, 48 años.
+* Usuario 2
 
 
 	Describe la experiencia 1
