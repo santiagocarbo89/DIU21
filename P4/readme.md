@@ -1,3 +1,4 @@
+
 # DIU - Practica 4, entregables
 
 Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
@@ -34,12 +35,13 @@ Para elaborar el test de usabilidad, han participado los siguientes usuarios:
 	Experiencia 1 : Navis. 
 
 	Experiencia 2 : VisitaGranada.
-**SUS Score Navis**
+[**SUS Score Navis**](https://github.com/santiagocarbo89/DIU21/files/6569721/Navis.ods)
 
 <img src="https://user-images.githubusercontent.com/62752334/120181726-bf9c7f80-c20d-11eb-8ced-68391d7a950a.png" width="750">
 
 
-**SUS Score VisitaGranada**
+[**SUS Score VisitaGranada**](https://github.com/santiagocarbo89/DIU21/files/6569724/VisitaGranada.ods)
+
 
 <img src="https://user-images.githubusercontent.com/62752334/120111575-b8746380-c172-11eb-88a7-74a8081ba577.png" width="750">
 
