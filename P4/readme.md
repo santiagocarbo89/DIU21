@@ -50,7 +50,7 @@ Para elaborar el test de usabilidad, han participado los siguientes usuarios:
 ## Conclusiones
 
 
-[Informe de Usabilidad de Navis: ](https://github.com/santiagocarbo89/DIU21/files/6566614/DIU_report-template-usability-testOK-Navis.pdf)
+[Informe de Usabilidad de Navis: ](https://github.com/santiagocarbo89/DIU21/files/6569783/DIU_report-template-usability-testOK-Navis.pdf)
 
 A modo de conclusión, nos damos cuenta de que tenemos cuatro usuarios cuyas valoraciones se encuentran por encima de 80.3 (Puntuación A). Por otro lado, tenemos tres usuarios por encima de 68 (Puntuación B, ya que se encuentran bastante por encima). Finalmente, tenemos un usuario que tiene una puntuación por debajo de 51 (Puntuación F). Pese a la amplia variedad de notas, el promedio sería 75,62, es decir, una puntuación B (Notable).
 
@@ -58,6 +58,8 @@ Aunque a la amplia mayoría de los usuarios les ha gustado la aplicación, este 
 
 
 [Informe de Usabilidad de VisitaGranada: ](https://github.com/santiagocarbo89/DIU21/files/6569715/DIU_report-template-usability-testOK-Navis.pdf)
+
+
 
 A modo de conclusión, nos damos cuenta de que tenemos tres usuarios cuyas valoraciones se encuentran por encima de 80.3 (Puntuación A). Por otro lado, tenemos cuatro usuarios por encima de 68 (Puntuación B, ya que se encuentran bastante por encima). Finalmente, tenemos un usuario que tiene una puntuación por debajo de 51 (Puntuación F). Pese a la amplia variedad de notas, el promedio sería 72.81 , es decir, una puntuación B (Notable).
 
