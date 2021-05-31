@@ -3,13 +3,13 @@
 Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
 
 
-## Caso 1 - Navis
+## Caso 1 - Navis, [DIU1.Salsoteca](https://github.com/santiagocarbo89/DIU21)
 
 Navis es una aplicación diseñada para planear un viaje, es decir, los vuelos, los hoteles u hostales, y el transporte en el destino, así como la opción de realizar un itinerario y agregar imágenes, vídeos, audios, en definitiva, experiencias.    
 
 ![landing_page](https://user-images.githubusercontent.com/75760642/120108140-28c7b880-c164-11eb-9849-60fb3a112ef2.png)
 
-## Caso 2 - VisitaGranada
+## Caso 2 - VisitaGranada,[DIU2.Marmotas](https://github.com/Mapachana/DIU21)
 
 VisitaGranada es una aplicación cuyo objetivo es planificar viajes a Granada, además de ofrecer información acerca de diversas actividades y eventos dentro de la ciudad.
 
