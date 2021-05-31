@@ -14,11 +14,7 @@ Navis es una aplicación diseñada para planear un viaje, es decir, los vuelos, 
 VisitaGranada es una aplicación cuyo objetivo es planificar viajes a Granada, además de ofrecer información acerca de diversas actividades y eventos dentro de la ciudad.
 
 <img src="https://user-images.githubusercontent.com/75760642/120108875-53ffd700-c167-11eb-8ead-a7b955d8688d.png" width="400">
-
-
-## Caso 3 - El Bastón de Granada
-
-Descripcion y hoja de valoración.   
+  
 
 ## User Testing
 
