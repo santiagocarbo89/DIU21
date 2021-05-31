@@ -59,5 +59,5 @@ A modo de conclusión, nos damos cuenta de que tenemos tres usuarios cuyas valor
 
 Los resultados resaltan que la aplicación en general gusta bastante a la mayoría de los usuarios a los que se ha preguntado. Cabe destacar que el usuario que ha obtenido una puntuación baja la ha obtenido porque es una persona mayor que no tiene ninguna experiencia relativa al mundo de la informática. Como conclusión final podemos decir que la amplia mayoría de los usuarios querrán utilizar esta página y que les será, en general, bastante fácil de usar.
 
-# *A/B TESTING*
+### *A/B TESTING*
 El promedio de Navis (74.06) es ligeramente superior al promedio de VisitaGranada (72.81). Además, ambos han tenido, más o menos, el mismo desenlace: casi todos los usuarios le han dado valoraciones muy buenas, salvo un usuario que ha dado puntuación negativa. Con estos datos presentes podemos finalizar diciendo que Navis ha cumplido las expectativas de su público. A modo de mejora, Navis podría perfeccionar su introducción a usuarios con una muy baja utilización de Internet.
