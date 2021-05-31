@@ -233,6 +233,14 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
+## Conclusión final / Valoración de las prácticas
+
+
+>>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+
+
+
+
 
 
 
