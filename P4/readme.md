@@ -32,9 +32,9 @@ Para elaborar el test de usabilidad, han participado los siguientes usuarios:
 
 <img src="https://user-images.githubusercontent.com/62752334/120110600-692c3400-c16e-11eb-99e5-d2d3e816b338.png" width="750">
 
-*Experiencia 1 (Navis) : Para hacer una prueba de la aplicación, se ha intentado crear un viaje, para ello se ha accedido a la [página de la aplicación](https://github.com/santiagocarbo89/DIU21) y se han visto los diferentes pasos que llevar a cabo. 
+*Experiencia 1 (Navis) : Para hacer una prueba de la aplicación, se ha intentado crear un viaje, para ello se ha accedido a la [página de la aplicación](https://github.com/santiagocarbo89/DIU21) y se han visto los diferentes pasos que llevar a cabo.* 
 
-*Experiencia 2 (VisitaGranada) : Para hacer una prueba de la aplicación, se ha intentado crear un viaje, para ello se ha accedido a la [página de la aplicación](https://github.com/Mapachana/DIU21) y se han visto los diferentes pasos que llevar a cabo.
+*Experiencia 2 (VisitaGranada) : Para hacer una prueba de la aplicación, se ha intentado crear un viaje, para ello se ha accedido a la [página de la aplicación](https://github.com/Mapachana/DIU21) y se han visto los diferentes pasos que llevar a cabo.*
 	
 [**SUS Score Navis**](https://github.com/santiagocarbo89/DIU21/files/6569721/Navis.ods)
 
