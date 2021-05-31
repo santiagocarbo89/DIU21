@@ -36,7 +36,8 @@ Para elaborar el test de usabilidad, han participado los siguientes usuarios:
 	Experiencia 2 : VisitaGranada.
 **SUS Score Navis**
 
-<img src="https://user-images.githubusercontent.com/62752334/120112034-79471200-c174-11eb-8a3c-317ee35104b2.png" width="750">
+<img src="https://user-images.githubusercontent.com/62752334/120181726-bf9c7f80-c20d-11eb-8ced-68391d7a950a.png" width="750">
+
 
 **SUS Score VisitaGranada**
 
@@ -53,7 +54,7 @@ A modo de conclusión, nos damos cuenta de que tenemos cuatro usuarios cuyas val
 Aunque a la amplia mayoría de los usuarios les ha gustado la aplicación, este resultado denota que al público general le gusta, sin embargo, existe un bajo porcentaje a quien no le gusta nada. O te encanta o no te gusta nada. También es importante puntuar que la puntuación negativa la ha valorado una persona mayor que no se desenvuelve mucho con Internet, de forma que, en cierto modo, es normal.
 
 
-[Informe de Usabilidad de VisitaGranada: ](https://github.com/santiagocarbo89/DIU21/files/6566617/DIU_report-template-usability-testOK-VisitaGranada.pdf)
+[Informe de Usabilidad de VisitaGranada: ](https://github.com/santiagocarbo89/DIU21/files/6569715/DIU_report-template-usability-testOK-Navis.pdf)
 
 A modo de conclusión, nos damos cuenta de que tenemos tres usuarios cuyas valoraciones se encuentran por encima de 80.3 (Puntuación A). Por otro lado, tenemos cuatro usuarios por encima de 68 (Puntuación B, ya que se encuentran bastante por encima). Finalmente, tenemos un usuario que tiene una puntuación por debajo de 51 (Puntuación F). Pese a la amplia variedad de notas, el promedio sería 72.81 , es decir, una puntuación B.
 
