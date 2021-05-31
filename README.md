@@ -259,8 +259,10 @@ El promedio de Navis (75.62) es ligeramente superior al promedio de VisitaGranad
 
 ## Conclusión final / Valoración de las prácticas
 
+Para concluir, nos gustaría valorar los resultados que hemos obtenido tras la realización del proyecto Navis. Creemos que se han seguido los pasos correctamente, de forma que todo el proceso se ha desarrollado "construyendo la casa de arriba a abajo". Los resultados del proyecto han resultado ser bastante positivos, aunque siempre creemos que podemos pulir y añadir funcionalidades a nuestro proyecto. 
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Finalmente comentar que la puntuación obtenida mediante el 'A/B Testing' ha resultado ser 'B', de forma que podemos concluir que ha resultado satisfactoria.
+
 
 
 
